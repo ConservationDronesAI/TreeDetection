@@ -120,6 +120,7 @@ run_end_to_end(
 
 ## Add a funny joke below here
 
+
 | Name / Nom | Joke in Malagasy / Blague en Malagasy | Translation / Traduction |
 |------------|---------------------------------------|--------------------------|
 | Steven Longmore | Nahoana ny lemur no tsy mampiasa ordinatera? Satria matahotra ny "mouse" izy! | Why don't lemurs use computers? Because they're afraid of the mouse! |
@@ -134,8 +135,7 @@ run_end_to_end(
 | Tojo | Mety ingenieur civil angamba ny Tompo satria nataony nifanakaiky ny kilalao sy fanariam-pako | |
 | MamitianaRaks | Inona no mahasamy hafa ny olona adala sy ny ny tsy adala, satria ny olona adala iany tsy miheritreritra hoe adala izy, fa ny olona tsy adala mieritreritra foana hoe sao dia ho lasa adala. Le taikalahy ty, Hingaiko ny rambon'omby dia ianao no hitako ao, | |
 | Maneva | Zaza: "Dada ô, nahoana isika no tsy manan-karena?" Dada: "Satria isika tsy manana vola, anaka." Zaza: "Fa nahoana isika no tsy manana vola?" Dada: "Satria isika tsy manan-karena!" | |
-
+| Rindra | Very ny la clé anefa ny andro efa ariva, Poly: Inona lesy izany alaon'ialahy izany ry JeanBA, JeanBA: Very lesy ny la clé ako ah, Poly: Fa taiza no very , JeanBA: Tery @maizina tery fa eto no mazava dia eto ah no mitady azy | |
 
 ampoule 
-
 
