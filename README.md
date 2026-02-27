@@ -130,9 +130,9 @@ run_end_to_end(
 | MikaRandrianasolo | Rabofy: Fa aiza le télé sy le frigo teto ? Za efa aty am La Résidence Ankerana miaraka am drone manatrika anle atelier | |
 | Tsiky | “Fa maninona ianao no mihomehy irery?” “Satria lafo be ny data, ka aleoko mihomehy irery toy izay hizara vazivazy!” | |
 | Fabrice | Miangavy an'i Steeve mba handihy eo ampovoany | |
-| LazaHarifetra | Mpampianatra : Manome inona ny Omby? Soa : Manome ronono madama, Mpampianatra: manome inona ny akoho, Soa : manome atody madama......, Mpampianatra: manome inona ny Kisoa, Soa: Manome devoir madama | Teacher : What does a cow give? Soa : She give milk, Madam. Teacher: What do chicken give? Soa: They give eggs madam... Teacher: And what does a pig give? Soa: Homework and exercises |
-| Angelo | Lohateny: Fampandrosoana haingana sy maharitra, Nifampiresaka izy mianaka (D/Z), Z: Dada ah, ividiano caca pigeon aho., D: Hay ianao tia caca pigeon be?, Z: Eny ry Dada, D: Aleo fa hividianako pigeon ianao ary! | |
+| LazaHarifetra | Mpampianatra : Manome inona ny Omby? Soa : Manome ronono madama, Mpampianatra: manome inona ny akoho, Soa : manome atody madama......, Mpampianatra: manome inona ny Kisoa, Soa: Manome devoir be dia be madama | Teacher : What does a cow give? Soa : She give milk, Madam. Teacher: What do chicken give? Soa: They give eggs madam... Teacher: And what does a pig give? Soa: Lots of homeworks and exercises. |
+| Angelo | Lohateny: Fampandrosoana haingana sy maharitra, Nifampiresaka izy mianaka (D/Z), Z: Dada ah, ividiano caca pigeon aho., D: Hay ianao tia caca pigeon be?, Z: Eny ry Dada, D: Aleo fa hividianako pigeon ianao ary! | Title: Sustaining development. Conversation between child (C) and father (D). C: Daddy, can you buy me a "Caca pigeon"? D: Do you really like "Caca pigeon"? C: Yes Daddy! D: I'll buy you a pigeon then! |
 
-! ! ampoule ! Bulb!
+| | ampoule | Bulb|
 
 
